@@ -1,12 +1,23 @@
-# Awesome Site Search & Product Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Site Search & Product Discovery Banner" width="100%" />
+</p>
 
-> A curated list of leading **Site Search**, **Ecommerce Search**, **Merchandising**, and **AI-Powered Product Discovery** platforms and open-source engines.
+# 🔍 Awesome Site Search & Product Discovery
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 🚀 A curated directory of premier **Site Search**, **Ecommerce Search**, **Merchandising**, and **AI-Powered Product Discovery** platforms and open-source engines.
 
 Turn search intent and catalog browsing into high-converting storefront experiences with intelligent autocomplete, faceted navigation, vector/semantic search, and automated merchandising.
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global **AI-Powered Product Discovery & Site Search Market** is valued at approximately **$2.8B – $3.2B** (projected to reach over **$12B by 2034**, expanding at a ~17.6% CAGR), propelled by rapid merchant adoption of neural vector search, conversational AI shopping assistants, and autonomous visual merchandising.
 
@@ -14,18 +25,20 @@ The market landscape is **moderately fragmented**: native ecommerce giants (such
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Architecture & Frameworks for Custom Discovery](#architecture--frameworks-for-custom-discovery)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [⚡ Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Architecture & Frameworks for Custom Discovery](#️-architecture--frameworks-for-custom-discovery)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
 ---
 
-## SaaS & Hosted Platforms
+## ☁️ SaaS & Hosted Platforms
 
 Leading hosted search APIs, visual merchandising engines, and product recommendation platforms, sorted by estimated company scale (valuation / market capitalization / ARR).
 
@@ -43,7 +56,7 @@ Leading hosted search APIs, visual merchandising engines, and product recommenda
 
 ---
 
-## Open-Source GitHub Projects
+## ⚡ Open-Source GitHub Projects
 
 Open-source search engines, vector retrieval databases, and developer libraries used to power custom ecommerce search, catalog filtering, and product discovery experiences. Sorted by GitHub star count (descending).
 
@@ -62,7 +75,7 @@ Open-source search engines, vector retrieval databases, and developer libraries 
 
 ---
 
-## Architecture & Frameworks for Custom Discovery
+## 🛠️ Architecture & Frameworks for Custom Discovery
 
 While open-source tools provide the foundational indexing and retrieval layers, full turnkey ecommerce product discovery (incorporating automated visual merchandising, pin/bury promotions, dynamic revenue-boosting algorithms, and behavioral tracking) generally requires combining specialized components:
 
@@ -78,24 +91,42 @@ While open-source tools provide the foundational indexing and retrieval layers, 
  (Typesense / Meilisearch)  (Qdrant / Milvus / Vespa)
 ```
 
-1. **In-Memory Lexical & Facet Engines**: Platforms like **[Typesense](https://github.com/typesense/typesense)** and **[Meilisearch](https://github.com/meilisearch/meilisearch)** deliver the developer ergonomics and sub-50ms response times needed for search-as-you-type and facet filtering.
-2. **Dense Vector & Semantic Retrieval**: Vector engines like **[Qdrant](https://github.com/qdrant/qdrant)** and **[Milvus](https://github.com/milvus-io/milvus)** enable natural language intent matching, CLIP-based visual image discovery, and embedding similarity recommendations.
-3. **Enterprise Reranking & ML Systems**: **[Vespa](https://github.com/vespa-engine/vespa)** and **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** provide multi-stage reranking pipelines capable of applying custom business logic and online machine-learning models to catalog search queries.
+1. **⚡ In-Memory Lexical & Facet Engines**: Platforms like **[Typesense](https://github.com/typesense/typesense)** and **[Meilisearch](https://github.com/meilisearch/meilisearch)** deliver the developer ergonomics and sub-50ms response times needed for search-as-you-type and facet filtering.
+2. **🧠 Dense Vector & Semantic Retrieval**: Vector engines like **[Qdrant](https://github.com/qdrant/qdrant)** and **[Milvus](https://github.com/milvus-io/milvus)** enable natural language intent matching, CLIP-based visual image discovery, and embedding similarity recommendations.
+3. **⚙️ Enterprise Reranking & ML Systems**: **[Vespa](https://github.com/vespa-engine/vespa)** and **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** provide multi-stage reranking pipelines capable of applying custom business logic and online machine-learning models to catalog search queries.
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
 Contributions are welcome! Help keep this directory current by submitting updates or new tools:
 
-1. **Fork the repository**.
-2. **Add or edit entries** in `README.md` following the established table structure.
-3. **Include factual data**: product name, official website/repo link, verified starting pricing/tier limits, company scale, and key discovery capabilities.
-4. **Submit a pull request** with a concise description of your changes.
+1. **Fork the repository** 🍴
+2. **Add or edit entries** in `README.md` following the established table structure 📝
+3. **Include factual data**: product name, official website/repo link, verified starting pricing/tier limits, company scale, and key discovery capabilities 🔍
+4. **Submit a pull request** with a concise description of your changes 🚀
 
 ---
 
-## Disclaimer
+## 💖 Support
+
+Thank you for exploring and utilizing this curated directory! If you find this resource valuable for your ecommerce engineering, search optimization, or merchandising workflows, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and share** the project with your team and community.
+- ☕ **Sponsor or buy a coffee** to back continued updates and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your backing and contributions help keep this ecosystem resource active, comprehensive, and up-to-date! 🙌
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Site-Search-Product-Discovery&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Site-Search-Product-Discovery&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
 
 - This repository is a community-curated resource for informational purposes and does not represent an endorsement of any listed platform or vendor.
 - Pricing, free tier thresholds, and corporate valuation/revenue figures are subject to change over time; verify current commercial agreements with official vendors before procurement.
@@ -103,4 +134,6 @@ Contributions are welcome! Help keep this directory current by submitting update
 
 ---
 
-**Maintained for ecommerce engineers, merchandising professionals, and search system architects.**
+<p align="center">
+  <b>Maintained for ecommerce engineers, merchandising professionals, and search system architects.</b>
+</p>
